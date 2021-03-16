@@ -1,12 +1,15 @@
 package com.atguigu.java;
 
+import java.io.Serializable;
 import java.util.Objects;
 
 /**
  * @author caoweiquan
  * @date 2021/3/15
  */
-public class Person {
+public class Person implements Serializable {
+
+    public static final long serialVersionUID = 42145646415454545L;
 
     private String name;
     private int age;
