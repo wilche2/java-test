@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-concurrent/java-concurrent.iml" filepath="$PROJECT_DIR$/java-concurrent/java-concurrent.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-test01/java-test01.iml" filepath="$PROJECT_DIR$/java-test01/java-test01.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-test02_Stream/java-test02_Stream.iml" filepath="$PROJECT_DIR$/java-test02_Stream/java-test02_Stream.iml" />
     </modules>
