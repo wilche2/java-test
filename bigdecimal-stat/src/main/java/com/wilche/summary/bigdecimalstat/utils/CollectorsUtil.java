@@ -1,6 +1,6 @@
-package com.example.test.utils;
+package com.wilche.summary.bigdecimalstat.utils;
 
-import com.example.test.interfaces.ToBigDecimalFunction;
+import com.wilche.summary.bigdecimalstat.interfaces.ToBigDecimalFunction;
 
 import java.math.BigDecimal;
 import java.util.Collections;

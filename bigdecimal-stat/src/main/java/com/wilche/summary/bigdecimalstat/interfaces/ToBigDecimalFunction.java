@@ -1,4 +1,4 @@
-package com.example.test.utils;
+package com.wilche.summary.bigdecimalstat.interfaces;
 
 import java.math.BigDecimal;
 
